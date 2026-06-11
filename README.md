@@ -50,3 +50,7 @@ pip config list
 ```
 
 Both should show your firewall hostname. A test install of any package should appear in your Socket Firewall logs.
+
+## License
+
+MIT. Use, modify, and redistribute these scripts freely.
